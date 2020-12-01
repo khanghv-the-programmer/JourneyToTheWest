@@ -6,7 +6,7 @@ This repo contains the source code of a simple Java Web application used to mana
 * JourneyToTheWest - project of Java Web Lab of FPT University
 * src code folder
 * build.xml
-* a bunch of Java code as back-end, CSS/JSP as front-end
+* a bunch of Java code as back-end, CSS/JSP/JavaScript(Template) as front-end
 
 ## Connect me via
 1. [GitHub](https://github.com/khanghv-the-programmer)
